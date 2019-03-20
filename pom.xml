@@ -39,7 +39,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.16</version>
+            <version>1.2.31</version>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
@@ -56,11 +56,6 @@
             <artifactId>logback-core</artifactId>
             <version>1.2.3</version>
         </dependency>
-        <!--<dependency>-->
-        <!--<groupId>org.slf4j</groupId>-->
-        <!--<artifactId>slf4j-nop</artifactId>-->
-        <!--<version>1.7.2</version>-->
-        <!--</dependency>-->
     </dependencies>
     <build>
         <finalName>tree-gen</finalName>
